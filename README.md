@@ -10,3 +10,6 @@ Kotlin Language Features Used in this app:
 - Kotlin Collections
 
 ![alt text](https://github.com/gopiikrishnacse/TodoListApplication/blob/master/images/home_screen.png)
+
+
+![alt text](https://github.com/gopiikrishnacse/TodoListApplication/blob/master/images/add_task.png)
