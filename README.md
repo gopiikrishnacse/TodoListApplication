@@ -1,5 +1,7 @@
 # TodoListApplication
-Todo List Application to add todo list and track
+Todo List Application to list and insert tasks
+
+Used Room database with Kolin couroutines to fetch and insery Todo tasks
 
 Kotlin Language Features Used in this app:
 - Coroutines
