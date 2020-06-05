@@ -9,4 +9,4 @@ Kotlin Language Features Used in this app:
 - Data Classes
 - Kotlin Collections
 
-![alt text](https://github.com/gopiikrishnacse/TodoListApplication/tree/master/images/home_screen.png?raw=true)
+![alt text](https://github.com/gopiikrishnacse/TodoListApplication/blob/master/images/home_screen.png)
